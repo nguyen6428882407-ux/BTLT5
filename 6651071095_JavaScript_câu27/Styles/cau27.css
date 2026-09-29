@@ -1,0 +1,7 @@
+body{font-family:"Times New Roman",serif;margin:20px}
+table{border-collapse:collapse}
+input,select,button{font-size:16px;padding:3px}
+.err{color:red}
+#tbl{background:#ccffcc;border:1px solid #9c9}
+#tbl th,#tbl td{border:1px solid #9c9;padding:4px 6px;text-align:center}
+#tbl input[type=text]{width:150px}

@@ -1,0 +1,12 @@
+body{font-family:"Times New Roman",serif;margin:20px}
+table{border-collapse:collapse}
+input,select,button{font-size:16px;padding:3px}
+.err{color:red}
+#menu{background:#ccff00;border:2px solid #99cc00;width:420px}
+#menu th{color:blue;padding:4px}
+#menu .title{font-size:22px;color:#000}
+#menu td{vertical-align:middle;padding:4px}
+.ctr{text-align:center}
+#hoadon{width:100%;background:#aaffff;border:2px solid maroon}
+#hoadon th,#hoadon td{border:1px solid maroon;padding:2px 4px}
+#hoadon th{color:blue}
